@@ -14,7 +14,7 @@ Here we will simulate a situation where a particle (electrons) is trapped in var
   'D:\QuantumWell' directory.
   ![image](https://github.com/WachRod/QuantumWell/assets/44232694/8bd8b74d-7355-4d55-8297-c1012b8e7c66)
 
-- Compile all java file under 'src' directory
+- Compile all java file under 'src' directory <br/>
                D:\QuantumWell>javac -cp . -d . ./src/*.java
   ![image](https://github.com/WachRod/QuantumWell/assets/44232694/e0da3109-5b51-488e-9306-7e7f4d8a83f7)
 
