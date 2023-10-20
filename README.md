@@ -17,18 +17,21 @@ Here we will simulate a situation where a particle (electrons) is trapped in var
   
                D:\QuantumWell>javac -cp . -d . ./src/*.java
    <img src="https://github.com/WachRod/QuantumWell/assets/44232694/e0da3109-5b51-488e-9306-7e7f4d8a83f7" width="40%" height="40%">
+
 - If there is no error. you will get a lot of '.class' file in a new 'SE1D' directory ( SE1D stands for Schrödinger Equation in 1 Dimension)
-- 
+  
 <img src="https://github.com/WachRod/QuantumWell/assets/44232694/b1afdf53-79ee-4d57-9dc0-f84f34229c03" width="40%" height="40%">
+
 - If some errors occur , you maybe add '-encoding utf8' in the line of compile command.
-- 
-  <img src="https://github.com/WachRod/QuantumWell/assets/44232694/5dac4cab-73be-4e7c-a7f1-343d1c471439" width="40%" height="40%">
+    <img src="https://github.com/WachRod/QuantumWell/assets/44232694/5dac4cab-73be-4e7c-a7f1-343d1c471439" width="40%" height="40%">
+
 - Don't forget to copy these image files (f1.gif, f2.gif, f3.gif, f4.gif and f5.gif ) from 'src' folder to 'SE1D' folder
+
 - Test driving this programm
    <img src="https://github.com/WachRod/QuantumWell/assets/44232694/460904bc-d751-4c4b-828a-7febf86628ae" width="40%" height="40%">
-  If everythig is alright. you will see as following picture.
-  
- <img src="https://github.com/WachRod/QuantumWell/assets/44232694/3d59b083-df42-457d-a0c3-136b65ac448e" width="40%" height="40%">
+
+-  If everythig is alright. you will see as following picture.
+   <img src="https://github.com/WachRod/QuantumWell/assets/44232694/3d59b083-df42-457d-a0c3-136b65ac448e" width="40%" height="40%">
 
 
 
