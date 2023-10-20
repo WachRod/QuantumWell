@@ -12,6 +12,7 @@ Here we will simulate a situation where a particle (electrons) is trapped in var
   
 - Press 'Window key + r' to open 'Command Shell' then type 'cmd + enter key' After Command shell window appears, go into
   'D:\QuantumWell' directory.
+  
   ![image](https://github.com/WachRod/QuantumWell/assets/44232694/8bd8b74d-7355-4d55-8297-c1012b8e7c66)
 
 - Compile all java file under 'src' directory
@@ -32,6 +33,7 @@ Here we will simulate a situation where a particle (electrons) is trapped in var
 - Test driving this programm
   ![image](https://github.com/WachRod/QuantumWell/assets/44232694/460904bc-d751-4c4b-828a-7febf86628ae)
   If everythig is alright. you will see as following picture.
+  
   ![image](https://github.com/WachRod/QuantumWell/assets/44232694/3d59b083-df42-457d-a0c3-136b65ac448e)
 
 
