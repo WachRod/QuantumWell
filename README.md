@@ -14,14 +14,18 @@ Here we will simulate a situation where a particle (electrons) is trapped in var
   'D:\QuantumWell' directory.
   ![image](https://github.com/WachRod/QuantumWell/assets/44232694/8bd8b74d-7355-4d55-8297-c1012b8e7c66)
 
-- Compile all java file under 'src' directory <br/>
+- Compile all java file under 'src' directory
+  
                D:\QuantumWell>javac -cp . -d . ./src/*.java
+  
   ![image](https://github.com/WachRod/QuantumWell/assets/44232694/e0da3109-5b51-488e-9306-7e7f4d8a83f7)
 
 - If there is no error. you will get a lot of '.class' file in a new 'SE1D' directory ( SE1D stands for Schrödinger Equation in 1 Dimension)
+- 
   ![image](https://github.com/WachRod/QuantumWell/assets/44232694/b1afdf53-79ee-4d57-9dc0-f84f34229c03)
 
 - If some errors occur , you maybe add '-encoding utf8' in the line of compile command.
+- 
   ![image](https://github.com/WachRod/QuantumWell/assets/44232694/5dac4cab-73be-4e7c-a7f1-343d1c471439)
   
 - Don't forget to copy these image files (f1.gif, f2.gif, f3.gif, f4.gif and f5.gif ) from 'src' folder to 'SE1D' folder
