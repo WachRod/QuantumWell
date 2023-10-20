@@ -9,8 +9,7 @@ Here we will simulate a situation where a particle (electrons) is trapped in var
 <b>How to compile these source code.</b>
 - Making a directory and subdirectory as in picture
 - 
-  ![image](https://github.com/WachRod/QuantumWell/assets/44232694/9f428b2c-d15a-45f4-ad70-8c43cbce7cfe)
-  
+  <img src="https://github.com/WachRod/QuantumWell/assets/44232694/9f428b2c-d15a-45f4-ad70-8c43cbce7cfe" width="50%" height="50%">
 - Press 'Window key + r' to open 'Command Shell' then type 'cmd + enter key' After Command shell window appears, go into
   'D:\QuantumWell' directory.
   
